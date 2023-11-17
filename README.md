@@ -1,4 +1,4 @@
-# Community-API
+# Community-Network-API
 
 ## General Information
 
@@ -104,17 +104,14 @@ If you would like to see a local version of the site, follow the steps below:
 
 [![License: MIT](https://img.shields.io/badge/NoLicense-blue.svg)](https://opensource.org)
 
-
 ## Contact
 
 ### Collaborators
-  * Kim Nguyen - [Charming Darling](https://github.com/charmingdarling)
-  * Zo Olivar - [Lorenzo-Olivar](https://github.com/Lorenzo-Olivar)
-  * Josh Beach - [Jbeach32](https://github.com/Jbeach32)
-  * Nurillah Saboorudin - [RahimmullahSaboorudin](https://github.com/RahimmullahSaboorudin)
+
+- Zo Olivar - [Lorenzo-Olivar](https://github.com/Lorenzo-Olivar)
 
 GitHub: 
-[Project Pokemon IO](https://charmingdarling.github.io/projectpokemon/)
-[Project Pokemon Repo](https://github.com/charmingdarling/projectpokemon)
+[Community-Network-API](https://github.com/Lorenzo-Olivar/Community-Network-API)
+
 
 ---
