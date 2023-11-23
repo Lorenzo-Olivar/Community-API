@@ -11,7 +11,7 @@ We decided to try and create a Pokémon turn-based battle system. The project us
 - [Description](#description)
 - [Deployed Site](#deployed-site)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
+- [Installation](#local-installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -52,15 +52,7 @@ Lastly, rigorous testing ensures the quality of our application. We focus on wel
 - [Express Handlebars v5.2.0](https://handlebarsjs.com/)
 - [dotenv v8.2.0](https://www.npmjs.com/package/dotenv) - loads environment variables from a .env file into process.env
 
-
-## Installation
-
-### Prerequisites 
-
-* [Node.js](https://nodejs.org/en)
-* [MySQL](https://www.mysql.com/)
-
-### Local Installation 
+## Local Installation 
 
 If you would like to see a local version of the site, follow the steps below: 
 
