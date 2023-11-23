@@ -1,78 +1,34 @@
 # Community-Network-API
 
-## General Information
+## Description
 
-We decided to try and create a Pokémon turn-based battle system. The project uses Node.js and Express.js for a RESTful API to manage user-server interactions, Handlebars.js for dynamic HTML generation, and MySQL with Sequelize for structured data storage. It follows the Model-View-Controller pattern for code organization, employs security measures like user authentication and data protection, and conducts thorough testing for quality assurance, aligning with the class requirements.
+My motivation for this project was to make a social networking API that can create and store users, add and remove friends from users, and add thoughts and reactions to a user database.
+I wanted to build this API to create a future application for a social media platform.
+With this API, I would handle user data and have users interact with other users with reactions, thoughts, and friends lists.
+Overall, this project helped me learn how to use MongoDB and Mongoose to create a solid database structure for complex data models.
 
+## Table of Contents (Optional)
 
-## Table of Contents
-
-- [General](#general-information)
-- [Description](#description)
-- [Deployed Site](#deployed-site)
-- [Technologies Used](#technologies-used)
-- [Installation](#local-installation)
+- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
-## Deployed Site
+## Installation
 
-
-Experience playing a [Pokémon](https://poke-fight-poke-dex1-c86d1d43fd89.herokuapp.com/) battle through our Heroku deployment.
-
-## Walkthrough Video 
-
-[Link to the Video Walkthougth](https://drive.google.com/file/d/1xbsX5GkBXMYy_dEqEyU7er7-QS2RAleh/view)
-
-## Description
-
-For our second project at Berkeley Coding Bootcamp, we tackled the task of creating a Pokémon turn-based battle system. To make this happen, we built a robust RESTful API using Node.js and Express.js, which forms the core of our web application. This API facilitates communication between users and the server by handling various requests and responses.
-
-On the front-end, we employed Handlebars.js as our template engine, enabling us to generate HTML content dynamically for a smooth user experience. To store data persistently, we opted for MySQL and Sequelize, ensuring efficient database management while adhering to a well-structured schema for Pokémon and user data.
-
-We implemented GET and POST routes to enable users to interact with the system. This allows users to access information about their Pokémon, initiate battles, and save their progress. Our project follows the Model-View-Controller (MVC) paradigm, providing clear organization and separation of files to enhance code maintenance.
-
-Security is a priority, so we integrated user authentication through Express-Session and Cookies to protect user instances. Additionally, sensitive information like API keys is securely stored using .ENV variables to prevent unauthorized access.
-
-Lastly, rigorous testing ensures the quality of our application. We focus on well-labeled code, data integrity, and consistency in data types throughout the system.
-
-## Technologies Used
-
-- Insomnia
-- Mongoose
-- Moment.js
-- Express.js
-- Node.js
-- MongoDB
-
-## Local Installation 
-
-If you would like to see a local version of the site, follow the steps below: 
-
-  1. Clone the [repository](https://github.com/Lorenzo-Olivar/Community-Network-API).
-  2. Change to root directory of the cloned repo in your command line.
-  3. Run `npm install` to bring in dependencies.
-  4. Start the server by running `npm start`.
-  5. In Insomnia Core, go to `http://localhost:3001`.
-
+1. Clone GitHub Repo to your local machine
+2. Run 'npm i' in your terminal in the repo directory
+3. Run 'npm start' in your terminal in the repo directory
+4. Then copy and paste the URL link in the terminal to an application like Insomnia
 
 ## Usage
 
+[Project Video](https://drive.google.com/file/d/1xbsX5GkBXMYy_dEqEyU7er7-QS2RAleh/view)
+
 ## Credits
+
+[Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/NoLicense-blue.svg)](https://opensource.org)
-
-## Contact
-
-### Collaborators
-
-- Zo Olivar - [Lorenzo-Olivar](https://github.com/Lorenzo-Olivar)
-
-GitHub: 
-[Community-Network-API](https://github.com/Lorenzo-Olivar/Community-Network-API)
-
-
----
+[![Static Badge](https://img.shields.io/badge/NoLicense-blue)](https://choosealicense.com/)
