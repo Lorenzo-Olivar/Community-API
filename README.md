@@ -23,9 +23,7 @@ Experience playing a [Pokémon](https://poke-fight-poke-dex1-c86d1d43fd89.heroku
 
 ## Walkthrough Video 
 
-To get an idea of the features of our game, watch our walkthrough video. 
-
-![A test image](image.png) 
+[Link to the Video Walkthougth](https://drive.google.com/file/d/1xbsX5GkBXMYy_dEqEyU7er7-QS2RAleh/view)
 
 ## Description
 
@@ -41,16 +39,12 @@ Lastly, rigorous testing ensures the quality of our application. We focus on wel
 
 ## Technologies Used
 
-- [Node.js v20.5.0](https://nodejs.org/en) - An asynchronous event-driven JavaScript runtime, designed to build scalable network applications.
-- [MySQL v2.2.5](https://www.mysql.com/) - Open-source relational database management system.
- - A templating engine in node js
-- [BCrypt v5.0.0](https://www.npmjs.com/package/bcrypt)
-- [Connect-Session-Sequelize v7.0.4](https://www.npmjs.com/package/connect-session-sequelize)
-- [Sequelize v6.3.5](https://sequelize.org/)
-- [Express v4.17.1](https://www.npmjs.com/package/express)
-- [Express-Session 1.17.1](https://www.npmjs.com/package/express-session)
-- [Express Handlebars v5.2.0](https://handlebarsjs.com/)
-- [dotenv v8.2.0](https://www.npmjs.com/package/dotenv) - loads environment variables from a .env file into process.env
+- Insomnia
+- Mongoose
+- Moment.js
+- Express.js
+- Node.js
+- MongoDB
 
 ## Local Installation 
 
