@@ -64,36 +64,14 @@ Lastly, rigorous testing ensures the quality of our application. We focus on wel
 
 If you would like to see a local version of the site, follow the steps below: 
 
-  1. Clone the [repository](https://github.com/charmingdarling/projectpokemon).
+  1. Clone the [repository](https://github.com/Lorenzo-Olivar/Community-Network-API).
   2. Change to root directory of the cloned repo in your command line.
   3. Run `npm install` to bring in dependencies.
-  4. Create a `.env` file in root directory. 
-
-  Example of contents: 
-
-
-    DB_NAME = 'pokemon_db'
-    DB_USER = 'root'
-    DB_PASSWORD = 'your_password'
-    SECRET = 'your_secret'
-
-  5. Make a database by logging into MySQL. 
-
-    `mysql -u [YOUR USERNAME] -p`. 
-      
-  Enter your password when prompted if applicable. Obtain database by: 
-      
-      `SOURCE db/schema.sql`.
-
-  6. Seed the database by running `npm run seed`.
-  7. Start the server by running `npm start`.
-  8. In your browser, go to `http://localhost:3001`.
+  4. Start the server by running `npm start`.
+  5. In Insomnia Core, go to `http://localhost:3001`.
 
 
 ## Usage
-
-[New Compressed (zipped) Folder.zip](https://github.com/Lorenzo-Olivar/Community-Network-API/files/13447623/New.Compressed.zipped.Folder.zip)
-
 
 ## Credits
 
