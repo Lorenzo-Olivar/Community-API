@@ -92,13 +92,10 @@ If you would like to see a local version of the site, follow the steps below:
 
 ## Usage
 
-* Provide Instructions *
+[New Compressed (zipped) Folder.zip](https://github.com/Lorenzo-Olivar/Community-Network-API/files/13447623/New.Compressed.zipped.Folder.zip)
 
-* Provide ![alt text](assets/images/screenshot.png) *
 
 ## Credits
-
-* Provide [Link Name](Link URL) *
 
 ## License
 
